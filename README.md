@@ -4,4 +4,4 @@ I am a Kaggle Notebook Master. You can learn to plot, make intelligent models an
 
 `This repo contains projects from wide variety of field including Machine Learning, Deep Learning, Business Intelligent , Big Data Analytics and Many more.`
 
-![](https://defouranalytics.com/resources/images/training/r-tool-1.jpg)
+![](https://newfundcap.com/sites/default/files/styles/image_header/public/tagbio_header_1.jpg?itok=4NP33fTg)
